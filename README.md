@@ -1,2 +1,2 @@
 # mlmeetup
-East bay ML Meetup
+East bay ML Meetup codebase
